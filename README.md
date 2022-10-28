@@ -28,7 +28,3 @@ N/A
 * [Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition](https://www.packtpub.com/web-development/hands-full-stack-development-spring-boot-2-and-react-second-edition)
 
 * [Full Stack Web Development with Vue.js and Node.js [Video]](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-nodejs-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789530742">https://packt.link/free-ebook/9781789530742 </a> </p>
